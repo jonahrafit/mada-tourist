@@ -1,0 +1,42 @@
+# Système d'exploitation
+.DS_Store
+Thumbs.db
+
+# Répertoires générés par Android Studio
+.idea/
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+local.properties
+
+# Fichiers de configuration spécifiques à Android Studio
+*.iml
+*.hprof
+
+# Fichiers de configuration spécifiques au système
+.vscode/
+*.log
+*.swp
+*.swo
+*.tmp
+
+# Cache et autres fichiers générés
+.gradle/
+build/
+.cxx/
+*.class
+*.apk
+*.ap_
+*.dex
+*.so
+*.obj
+*.lock
+*.pyc
+*.pyo
+*.keystore
+*.jks
+
+# Fichiers de débogage et de génération
+gen/
+out/
